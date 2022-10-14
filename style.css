@@ -151,12 +151,3 @@ footer{
    
 }
 
-
-ion-icon{
-    font-size: 35px;
-    transition: 0.5s;
-}
-
-ion-icon:hover{
-    transform:scale(1.2)
-}
